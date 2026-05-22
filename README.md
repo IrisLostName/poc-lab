@@ -1,5 +1,7 @@
 # poc-lab
 
+**English** | [中文](./README.zh-CN.md)
+
 > PoC & reproduction scripts for recently disclosed high-severity vulnerabilities.
 
 Focused on **fresh, impactful CVEs** — Linux kernel, Windows, macOS, containers, services, and beyond.
